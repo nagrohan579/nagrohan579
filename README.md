@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rohan Nag</h1>
-<h3 align="center">A passionate developer from India, interested in AI and Mobile Dev.</h3>
+<h3 align="center">A DevOps Intern from India, enthusiastic about GenAI and passionate about development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nagrohan579&label=Profile%20views&color=0e75b6&style=flat" alt="nagrohan579" /> </p>
 
@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on [house_price_prediction_linear_regression_model](https://github.com/nagrohan579/house_price_prediction_linear_regression_model.git)
 
-- 🌱 I’m currently learning **Machine learning**
+- 🌱 I’m currently learning **GenAI and DevOps technologies**
 
-- 💬 Ask me about **Java, Python, ShellScript**
+- 💬 Ask me about **Java, Python, ShellScript, DevOps, GenAI**
 
 - 📫 How to reach me **nagrohan579@gmail.com**
 
