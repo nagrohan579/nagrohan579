@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rohan Nag</h1>
-<h3 align="center">A DevOps Intern from India, enthusiastic about GenAI and passionate about development.</h3>
+<h3 align="center">A Development Engineer from India, enthusiastic about GenAI and passionate about development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nagrohan579&label=Profile%20views&color=0e75b6&style=flat" alt="nagrohan579" /> </p>
 
